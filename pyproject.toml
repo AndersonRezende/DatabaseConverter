@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "databaseconverter"
+version = "0.1.0"
+description = "Conversor de banco de dados"
+authors = ["Anderson Rezende <andersonrezende17@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
